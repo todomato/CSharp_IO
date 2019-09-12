@@ -1,0 +1,6 @@
+C:\Users\andy.chen\source\repos\CSharp_IO\CSharp_IO\bin\Debug\CSharp_IO.exe.config
+C:\Users\andy.chen\source\repos\CSharp_IO\CSharp_IO\bin\Debug\CSharp_IO.exe
+C:\Users\andy.chen\source\repos\CSharp_IO\CSharp_IO\bin\Debug\CSharp_IO.pdb
+C:\Users\andy.chen\source\repos\CSharp_IO\CSharp_IO\obj\Debug\CSharp_IO.csproj.CoreCompileInputs.cache
+C:\Users\andy.chen\source\repos\CSharp_IO\CSharp_IO\obj\Debug\CSharp_IO.exe
+C:\Users\andy.chen\source\repos\CSharp_IO\CSharp_IO\obj\Debug\CSharp_IO.pdb
